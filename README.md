@@ -1,2 +1,2 @@
-# Netowrks
+# Networks
 Homeworks for course in Networks
