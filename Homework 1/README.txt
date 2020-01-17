@@ -1,0 +1,1 @@
+This folder contains my solutions for exercises 2 and 3 of the first Networks PS. The code is written in R and outputs and discussions can be found in the PDF.
